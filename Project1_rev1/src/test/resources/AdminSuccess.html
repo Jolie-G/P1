@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body class ="body">
+<div id="login">
+        <h3 class="text-center text-white pt-5">Welcome Admin!</h3>
+        <div class="container">
+            <div id="login-row" class="row justify-content-center align-items-center">
+                <div id="login-column" class="col-md-6">
+                    <img src="https://thetheodores.org/sites/default/files/pictures/picture-1-1486774242.png">
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    	<form action="addNewEmp.do" method="post">
+		
+		Enter First Name : <input type=text name="firstname"><br> 
+		
+		Enter Last Name : <input type=text name="lastname"><br> 
+		
+		Enter Password : <input type=text name="password"><br> 
+		
+		Enter Role : <input type=text name="role_id"><br> 
+			
+		<input type="submit">
+
+	</form>
+	
+	<form action = "getAllReim.do" method = "get">
+	<button type="submit">View All Reimbursements</button> 
+	<!--  <input type="submit"> -->
+	</form>
+	
+	<form action = "getAllUsers.do" method = "get">
+	<button type="submit">View All Users</button> 
+	<!--  <input type="submit">-->
+	</form>
+	
+</body>
+</html>

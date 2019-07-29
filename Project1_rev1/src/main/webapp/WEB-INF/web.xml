@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	version="2.5">
+	<display-name>Unicorn Glue</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file> <!-- HTM is used as an alternate to .HTML for some operating systems and 
+			servers that do not accept four-letter extensions -->
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+
+	<servlet>
+		<servlet-name>LogInServlet</servlet-name><!-- web.xml receives all the 
+			requests, then in this servlet tag sends them-->
+		<servlet-class>com.revature.servlets.LogInServlet</servlet-class><!-- servlet 
+			class reveals where this servlet is located -->
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>LogInServlet</servlet-name><!-- this tag tells the web.xml 
+			where to send the servlet-->
+		<url-pattern>/html/login.do</url-pattern><!-- a req handler: anything suffixed 
+			will map to this; in this case will invoke the LogInServlet servlet -->
+	</servlet-mapping>
+
+
+
+	<servlet>
+		<servlet-name>NewReimburseServlet</servlet-name><!-- web.xml receives all 
+			the requests, then in this servlet tag sends them to the NewReimbursementServlet Servlet -->
+		<servlet-class>com.revature.servlets.NewReimburseServlet</servlet-class><!-- 
+			servlet class reveals where this servlet is located -->
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>NewReimburseServlet</servlet-name><!-- this tag tells the web.xml 
+			where to send the servlet (in this case, NewReimburseServlet Servlet) -->
+		<url-pattern>/html/NewReim.do</url-pattern><!-- a req handler: anything suffixed 
+			will map to this; in this case will invoke the NewReimburseServlet servlet -->
+	</servlet-mapping> <!-- uses the actions to map to the servlet class -->
+	
+	
+		<servlet>
+		<servlet-name>getAllEmployeeReimbursementsByStatusServlet</servlet-name><!-- web.xml receives all 
+			the requests, then in this servlet tag sends them to the getAllEmployeeReimbursementsByStatusServlet Servlet -->
+		<servlet-class>com.revature.servlets.getAllEmployeeReimbursementsByStatusServlet</servlet-class><!-- 
+			servlet class reveals where this servlet is located -->
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>getAllEmployeeReimbursementsByStatusServlet</servlet-name><!-- this tag tells the web.xml 
+			where to send the servlet (in this case, getAllEmployeeReimbursementsByStatusServlet Servlet) -->
+		<url-pattern>/html/GetAllReimByStatus.do</url-pattern><!-- a req handler: anything suffixed 
+			will map to this; in this case will invoke the getAllEmployeeReimbursementsByStatusServlet servlet -->
+	</servlet-mapping> <!-- uses the actions to map to the servlet class -->
+
+	
+			<servlet>
+		<servlet-name>GetUserByIDServlet</servlet-name><!-- web.xml receives all 
+			the requests, then in this servlet tag sends them to the GetUserByIDServlet Servlet -->
+		<servlet-class>com.revature.servlets.GetUserByIDServlet</servlet-class><!-- 
+			servlet class reveals where this servlet is located -->
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetUserByIDServlet</servlet-name><!-- this tag tells the web.xml 
+			where to send the servlet (in this case, GetUserByIDServlet Servlet) -->
+		<url-pattern>/html/GetUserInfo.do</url-pattern><!-- a req handler: anything suffixed 
+			will map to this; in this case will invoke the GetUserByIDServlet servlet -->
+	</servlet-mapping> <!-- uses the actions to map to the servlet class -->
+	
+	
+	<servlet>
+		<servlet-name>ManagerGetAllReimByStatusServlet</servlet-name><!-- web.xml receives all 
+			the requests, then in this servlet tag sends them to the ManagerGetAllReimByStatusServlet Servlet -->
+		<servlet-class>com.revature.servlets.ManagerGetAllReimByStatusServlet</servlet-class><!-- 
+			servlet class reveals where this servlet is located -->
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ManagerGetAllReimByStatusServlet</servlet-name><!-- this tag tells the web.xml 
+			where to send the servlet (in this case, ManagerGetAllReimByStatusServlet Servlet) -->
+		<url-pattern>/html/GetAllReimStatusID.do</url-pattern><!-- a req handler: anything suffixed 
+			will map to this; in this case will invoke the ManagerGetAllReimByStatusServlet servlet -->
+	</servlet-mapping> <!-- uses the actions to map to the servlet class -->
+	
+	
+	
+	<servlet>
+		<servlet-name>AddEmployeeServlet</servlet-name><!-- web.xml receives all 
+			the requests, then in this servlet tag sends them to the AddEmployeeServlet Servlet -->
+		<servlet-class>com.revature.servlets.AddEmployeeServlet</servlet-class><!-- 
+			servlet class reveals where this servlet is located -->
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AddEmployeeServlet</servlet-name><!-- this tag tells the web.xml 
+			where to send the servlet (in this case, AddEmployeeServlet Servlet) -->
+		<url-pattern>/html/addNewEmp.do</url-pattern><!-- a req handler: anything suffixed 
+			will map to this; in this case will invoke the AddEmployeeServlet servlet -->
+	</servlet-mapping> <!-- uses the actions to map to the servlet class -->
+	
+	
+	<servlet>
+		<servlet-name>UpdateEmployeeInfoServlet</servlet-name><!-- web.xml receives all 
+			the requests, then in this servlet tag sends them to the UpdateEmployeeInfoServlet Servlet -->
+		<servlet-class>com.revature.servlets.UpdateEmployeeInfoServlet</servlet-class><!-- 
+			servlet class reveals where this servlet is located -->
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>UpdateEmployeeInfoServlet</servlet-name><!-- this tag tells the web.xml 
+			where to send the servlet (in this case, UpdateEmployeeInfoServlet Servlet) -->
+		<url-pattern>/html/Update.do</url-pattern><!-- a req handler: anything suffixed 
+			will map to this; in this case will invoke the UpdateEmployeeInfoServlet servlet -->
+	</servlet-mapping> <!-- uses the actions to map to the servlet class -->
+	
+	
+		<servlet>
+		<servlet-name>LogOutServlet</servlet-name><!-- web.xml receives all 
+			the requests, then in this servlet tag sends them to the LogOutServlet Servlet -->
+		<servlet-class>com.revature.servlets.LogOutServlet</servlet-class><!-- 
+			servlet class reveals where this servlet is located -->
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>LogOutServlet</servlet-name><!-- this tag tells the web.xml 
+			where to send the servlet (in this case, LogOutServlet Servlet) -->
+		<url-pattern>/html/logout.do</url-pattern><!-- a req handler: anything suffixed 
+			will map to this; in this case will invoke the LogOutServlet servlet -->
+	</servlet-mapping> <!-- uses the actions to map to the servlet class -->
+	
+			<servlet>
+		<servlet-name>ViewAllManagedServlet</servlet-name><!-- web.xml receives all 
+			the requests, then in this servlet tag sends them to the ViewAllManagedServlet Servlet -->
+		<servlet-class>com.revature.servlets.ViewAllManagedServlet</servlet-class><!-- 
+			servlet class reveals where this servlet is located -->
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ViewAllManagedServlet</servlet-name><!-- this tag tells the web.xml 
+			where to send the servlet (in this case, ViewAllManagedServlet Servlet) -->
+		<url-pattern>/html/ViewManaged.do</url-pattern><!-- a req handler: anything suffixed 
+			will map to this; in this case will invoke the ViewAllManagedServlet servlet -->
+	</servlet-mapping> <!-- uses the actions to map to the servlet class -->
+	
+	
+	<servlet>
+		<servlet-name>GetAllReimServlet</servlet-name><!-- web.xml receives all 
+			the requests, then in this servlet tag sends them to the GetAllReimServlet Servlet -->
+		<servlet-class>com.revature.servlets.GetAllReimServlet</servlet-class><!-- 
+			servlet class reveals where this servlet is located -->
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetAllReimServlet</servlet-name><!-- this tag tells the web.xml 
+			where to send the servlet (in this case, GetAllReimServlet Servlet) -->
+		<url-pattern>/html/GetAllReim.do</url-pattern><!-- a req handler: anything suffixed 
+			will map to this; in this case will invoke the GetAllReimServlet servlet -->
+	</servlet-mapping> <!-- uses the actions to map to the servlet class -->
+	
+	
+	<servlet>
+		<servlet-name>ApproveandDenyServlet</servlet-name><!-- web.xml receives all 
+			the requests, then in this servlet tag sends them to the ApproveandDenyServlet Servlet -->
+		<servlet-class>com.revature.servlets.ApproveandDenyServlet</servlet-class><!-- 
+			servlet class reveals where this servlet is located -->
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ApproveandDenyServlet</servlet-name><!-- this tag tells the web.xml 
+			where to send the servlet (in this case, ApproveandDenyServlet Servlet) -->
+		<url-pattern>/html/ApproveDeny.do</url-pattern><!-- a req handler: anything suffixed 
+			will map to this; in this case will invoke the ApproveandDenyServlet servlet -->
+	</servlet-mapping> <!-- uses the actions to map to the servlet class -->
+	
+	
+		<servlet>
+		<servlet-name>GetAllUsersServlet</servlet-name><!-- web.xml receives all 
+			the requests, then in this servlet tag sends them to the GetAllUsersServlet Servlet -->
+		<servlet-class>com.revature.servlets.GetAllUsersServlet</servlet-class><!-- 
+			servlet class reveals where this servlet is located -->
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetAllUsersServlet</servlet-name><!-- this tag tells the web.xml 
+			where to send the servlet (in this case, GetAllUsersServlet Servlet) -->
+		<url-pattern>/html/GetAllUsers.do</url-pattern><!-- a req handler: anything suffixed 
+			will map to this; in this case will invoke the GetAllUsersServlet servlet -->
+	</servlet-mapping> <!-- uses the actions to map to the servlet class -->
+	
+
+</web-app>

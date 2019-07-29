@@ -1,0 +1,174 @@
+2019-07-26 10:18:20 INFO  LogInServlet:168 - going into try
+2019-07-26 10:18:22 INFO  LogInServlet:169 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 11:55:34 INFO  LogInServlet:171 - going into try
+2019-07-26 11:55:35 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 11:57:23 INFO  LogInServlet:171 - going into try
+2019-07-26 11:57:25 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 12:03:42 INFO  LogInServlet:171 - going into try
+2019-07-26 12:03:43 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 12:17:14 INFO  LogInServlet:171 - going into try
+2019-07-26 12:17:14 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 12:23:10 INFO  LogInServlet:171 - going into try
+2019-07-26 12:23:10 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 12:25:24 INFO  LogInServlet:171 - going into try
+2019-07-26 12:25:25 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 12:34:27 INFO  LogInServlet:171 - going into try
+2019-07-26 12:34:28 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 12:45:38 INFO  LogInServlet:171 - going into try
+2019-07-26 12:45:40 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 12:54:46 INFO  LogInServlet:171 - going into try
+2019-07-26 12:54:46 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 13:59:55 INFO  LogInServlet:171 - going into try
+2019-07-26 13:59:56 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 14:00:22 INFO  LogInServlet:171 - going into try
+2019-07-26 14:00:23 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 14:12:48 INFO  LogInServlet:171 - going into try
+2019-07-26 14:12:49 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 14:15:00 INFO  LogInServlet:171 - going into try
+2019-07-26 14:15:01 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 14:18:52 INFO  LogInServlet:171 - going into try
+2019-07-26 14:18:53 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 14:28:02 INFO  LogInServlet:171 - going into try
+2019-07-26 14:28:03 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 14:36:22 INFO  LogInServlet:171 - going into try
+2019-07-26 14:36:24 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 14:36:42 INFO  LogInServlet:171 - going into try
+2019-07-26 14:36:42 INFO  LogInServlet:172 - 
+2019-07-26 14:40:37 INFO  LogInServlet:171 - going into try
+2019-07-26 14:40:39 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 14:42:06 INFO  LogInServlet:171 - going into try
+2019-07-26 14:42:06 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 14:42:14 INFO  LogInServlet:171 - going into try
+2019-07-26 14:42:15 INFO  LogInServlet:172 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 14:59:24 INFO  LogInServlet:171 - going into try
+2019-07-26 14:59:26 INFO  LogInServlet:172 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 15:58:29 INFO  LogInServlet:41 - going into try
+2019-07-26 15:58:31 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 16:05:53 INFO  LogInServlet:41 - going into try
+2019-07-26 16:05:54 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 16:37:18 INFO  LogInServlet:41 - going into try
+2019-07-26 16:37:19 INFO  LogInServlet:42 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 16:38:47 INFO  LogInServlet:41 - going into try
+2019-07-26 16:38:49 INFO  LogInServlet:42 - Users [userId=1004, firstname=David, lastname=Dude, password=pass, roleId=1]
+2019-07-26 16:42:26 INFO  LogInServlet:41 - going into try
+2019-07-26 16:42:26 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 16:49:37 INFO  LogInServlet:41 - going into try
+2019-07-26 16:49:39 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 16:49:54 INFO  LogInServlet:41 - going into try
+2019-07-26 16:49:55 INFO  LogInServlet:42 - 
+2019-07-26 16:50:09 INFO  LogInServlet:41 - going into try
+2019-07-26 16:50:09 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wong, password=pass, roleId=1]
+2019-07-26 16:50:58 INFO  LogInServlet:41 - going into try
+2019-07-26 16:50:59 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 16:52:54 INFO  LogInServlet:41 - going into try
+2019-07-26 16:52:54 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 16:59:47 INFO  LogInServlet:41 - going into try
+2019-07-26 16:59:49 INFO  LogInServlet:42 - 
+2019-07-26 17:00:12 INFO  LogInServlet:41 - going into try
+2019-07-26 17:00:13 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 17:17:08 INFO  LogInServlet:41 - going into try
+2019-07-26 17:17:10 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 17:22:02 INFO  LogInServlet:41 - going into try
+2019-07-26 17:22:04 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 17:24:21 INFO  LogInServlet:41 - going into try
+2019-07-26 17:24:23 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 17:25:24 INFO  LogInServlet:41 - going into try
+2019-07-26 17:25:25 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 17:25:37 INFO  LogInServlet:41 - going into try
+2019-07-26 17:25:38 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 17:31:21 INFO  LogInServlet:41 - going into try
+2019-07-26 17:31:22 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 17:34:57 INFO  LogInServlet:41 - going into try
+2019-07-26 17:34:59 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 17:37:13 INFO  LogInServlet:41 - going into try
+2019-07-26 17:37:14 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 17:39:34 INFO  LogInServlet:41 - going into try
+2019-07-26 17:39:35 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 17:44:26 INFO  LogInServlet:41 - going into try
+2019-07-26 17:44:28 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 17:52:19 INFO  LogInServlet:41 - going into try
+2019-07-26 17:52:21 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 18:38:42 INFO  LogInServlet:41 - going into try
+2019-07-26 18:38:43 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-26 18:45:14 INFO  LogInServlet:41 - going into try
+2019-07-26 18:45:15 INFO  LogInServlet:42 - Users [userId=1003, firstname=Jaime, lastname=Thrasher, password=pass, roleId=3]
+2019-07-28 11:22:17 INFO  LogInServlet:41 - going into try
+2019-07-28 11:22:18 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wong, password=pass, roleId=1]
+2019-07-28 11:23:41 INFO  LogInServlet:41 - going into try
+2019-07-28 11:23:41 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-28 11:32:16 INFO  LogInServlet:41 - going into try
+2019-07-28 11:32:18 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-28 11:33:15 INFO  LogInServlet:41 - going into try
+2019-07-28 11:33:16 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-28 11:33:31 INFO  LogInServlet:41 - going into try
+2019-07-28 11:33:31 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-28 11:42:26 INFO  LogInServlet:41 - going into try
+2019-07-28 11:42:26 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wong, password=pass, roleId=1]
+2019-07-28 11:44:42 INFO  LogInServlet:41 - going into try
+2019-07-28 11:44:42 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-28 13:02:04 INFO  LogInServlet:41 - going into try
+2019-07-28 13:02:08 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-28 13:11:29 INFO  LogInServlet:41 - going into try
+2019-07-28 13:11:31 INFO  LogInServlet:41 - going into try
+2019-07-28 13:11:33 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-28 13:11:33 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-28 13:12:24 INFO  LogInServlet:41 - going into try
+2019-07-28 13:12:24 INFO  LogInServlet:42 - 
+2019-07-28 13:12:41 INFO  LogInServlet:41 - going into try
+2019-07-28 13:12:41 INFO  LogInServlet:42 - Users [userId=1002, firstname=Abigail, lastname=Spearwather, password=pass, roleId=2]
+2019-07-28 13:13:59 INFO  LogInServlet:41 - going into try
+2019-07-28 13:14:00 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wong, password=pass, roleId=1]
+2019-07-28 13:15:57 INFO  LogInServlet:41 - going into try
+2019-07-28 13:15:58 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wong, password=pass, roleId=1]
+2019-07-28 14:47:21 INFO  LogInServlet:41 - going into try
+2019-07-28 14:47:25 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wong, password=pass, roleId=1]
+2019-07-28 14:48:03 INFO  LogInServlet:41 - going into try
+2019-07-28 14:48:04 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wong, password=pass, roleId=1]
+2019-07-28 15:59:57 INFO  LogInServlet:41 - going into try
+2019-07-28 16:00:00 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-28 16:06:09 INFO  LogInServlet:41 - going into try
+2019-07-28 16:06:13 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-28 16:10:17 INFO  LogInServlet:41 - going into try
+2019-07-28 16:10:17 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-28 18:24:04 INFO  LogInServlet:41 - going into try
+2019-07-28 18:24:10 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-28 18:25:40 INFO  LogInServlet:41 - going into try
+2019-07-28 18:25:40 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wong, password=pass, roleId=1]
+2019-07-28 18:25:54 INFO  LogInServlet:41 - going into try
+2019-07-28 18:25:55 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wong, password=pass, roleId=1]
+2019-07-28 18:33:06 INFO  LogInServlet:41 - going into try
+2019-07-28 18:33:06 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wong, password=pass, roleId=1]
+2019-07-28 18:35:59 INFO  LogInServlet:41 - going into try
+2019-07-28 18:36:04 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wong, password=pass, roleId=1]
+2019-07-28 18:39:01 INFO  LogInServlet:41 - going into try
+2019-07-28 18:39:02 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-28 18:44:59 INFO  LogInServlet:41 - going into try
+2019-07-28 18:44:59 INFO  LogInServlet:42 - Users [userId=1274, firstname=Lisa, lastname=Frank, password=pass, roleId=1]
+2019-07-28 18:47:34 INFO  LogInServlet:41 - going into try
+2019-07-28 18:47:34 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-29 07:54:06 INFO  LogInServlet:41 - going into try
+2019-07-29 07:54:10 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wongo, password=pass, roleId=1]
+2019-07-29 08:01:18 INFO  LogInServlet:41 - going into try
+2019-07-29 08:01:22 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wongo, password=pass, roleId=1]
+2019-07-29 08:05:13 INFO  LogInServlet:41 - going into try
+2019-07-29 08:05:14 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jimbo, lastname=Wongo, password=pass, roleId=1]
+2019-07-29 08:05:27 INFO  LogInServlet:41 - going into try
+2019-07-29 08:05:28 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-29 08:08:57 INFO  LogInServlet:41 - going into try
+2019-07-29 08:08:58 INFO  LogInServlet:42 - Users [userId=1274, firstname=Lisa, lastname=Frank, password=pass, roleId=1]
+2019-07-29 08:12:42 INFO  LogInServlet:41 - going into try
+2019-07-29 08:12:42 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-29 11:45:18 INFO  LogInServlet:41 - going into try
+2019-07-29 11:45:23 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-29 11:49:34 INFO  LogInServlet:41 - going into try
+2019-07-29 11:49:35 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jimbo, lastname=Wongo, password=pass, roleId=1]
+2019-07-29 13:40:29 INFO  LogInServlet:41 - going into try
+2019-07-29 13:40:33 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-29 13:59:36 INFO  LogInServlet:41 - going into try
+2019-07-29 13:59:37 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wongo, password=pass, roleId=1]
+2019-07-29 14:41:36 INFO  LogInServlet:41 - going into try
+2019-07-29 14:41:37 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]
+2019-07-29 16:21:20 INFO  LogInServlet:41 - going into try
+2019-07-29 16:21:21 INFO  LogInServlet:42 - Users [userId=1004, firstname=Jim, lastname=Wongo, password=pass, roleId=1]
+2019-07-29 16:23:18 INFO  LogInServlet:41 - going into try
+2019-07-29 16:23:18 INFO  LogInServlet:42 - Users [userId=1005, firstname=Jolie, lastname=Gascon, password=pass, roleId=3]

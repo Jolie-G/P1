@@ -1,0 +1,5 @@
+driver=oracle.jdbc.driver.OracleDriver
+url=jdbc:oracle:thin:@mj-cardealership.c89lyyvorn4s.us-east-2.rds.amazonaws.com:1521:ORCL
+usr=CarDealership
+password=goingtothechampionship
+

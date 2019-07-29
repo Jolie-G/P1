@@ -1,0 +1,3 @@
+"C:\\Users\\Pegasus\\Desktop\\servlet project 0\\Oracle Servlet\\databaseprops.txt");
+	                 
+			

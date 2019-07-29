@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body class ="body">
+<div id="login">
+        <h3 class="text-center text-white pt-5">Welcome Admin!</h3>
+        <div class="container">
+            <div id="login-row" class="row justify-content-center align-items-center">
+                <div id="login-column" class="col-md-6">
+                    <img src="https://thetheodores.org/sites/default/files/pictures/picture-1-1486774242.png">
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    	<form action="addNewEmp.do" method="post">
+		
+		Enter 1nd First Name : <input type=text name="firstname"><br> 
+		
+		Enter 2rd Last Name : <input type=text name="lastname"><br> 
+		
+		Enter 3th Password : <input type=text name="password"><br> 
+		
+		Enter 4th Role : <input type=text name="role_id"><br> 
+			
+		<input type="submit">
+
+	</form>
+	
+	<form action="NewReim.do" method="post">
+
+		Enter Receipt Image : <input type=text name="receiptimage"><br>
+
+		<input type="submit">
+
+	</form>
+	
+	
+	
+	<form action="GetAllReimStatusID.do" method="get">
+	
+			Enter User ID : <input type=text name="userId"><br> 
+		
+		Enter Status Code : <input type=text name="status"><br> 
+	
+	get reimbursements by user and status > <input type="submit" name = "get all reimbursements">
+	
+	</form>
+	
+	
+	<form action = "logout.do" method = "post">
+	
+	LoutOut > <input type="submit">
+	
+	</form>
+	
+	
+	<form action = "GetAllReim.do" method = "get">
+	
+	Get All Reimbursements > <input type="submit">
+	
+	</form>
+	
+	
+	<form action = "ApproveDeny.do" method = "post">
+	
+		Enter Reimbursement ID : <input type=text name="reimid"><br> 
+		
+		Enter Status Code : <input type=text name="statusid"><br> 
+	
+	Submit Choice > <input type="submit">
+	
+	</form>
+		<form action="Update.do" method="post">
+		<!-- post for secure information -->
+		Enter New First Name : <input type=text name="firstname"><br>
+
+		Enter New Last Name : <input type=text name="lastname"><br>
+
+		Enter New Password : <input type=text name="password"><br>
+
+		<input type="submit">
+
+	</form>
+	
+	
+		<form action = "ViewManaged.do" method = "get">
+	
+	View Who is Managed > <input type="submit">
+	
+	</form>
+	
+		<form action = "GetAllUsers.do" method = "get">
+	
+	Get All Users > <input type="submit">
+	
+	</form>
+	
+</body>
+</html>
